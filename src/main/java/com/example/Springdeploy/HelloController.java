@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 /*
  * Build de app rest. cración de artefactos. para diferetes entornos.
  * 
- * 
+ * ejemplo para subir a github.
  */
 @RestController
 public class HelloController {
